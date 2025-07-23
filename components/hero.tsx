@@ -37,7 +37,7 @@ export function Hero() {
               <div className="w-full h-full rounded-full bg-white dark:bg-slate-900 flex items-center justify-center">
                 <img
                   src="/photo.jpeg?height=120&width=120"
-                  alt="Abhishek Bhoyar"
+                  alt="Abhishek Bhoyar "
                   className="w-28 h-28 rounded-full object-cover"
                 />
               </div>
